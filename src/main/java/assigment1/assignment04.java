@@ -1,3 +1,5 @@
+package assigment1;
+
 import java.util.Scanner;
 
 public class assignment04 {

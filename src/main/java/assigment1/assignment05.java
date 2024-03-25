@@ -1,3 +1,5 @@
+package assigment1;
+
 public class assignment05 {
     public static void main(String[] args) {
         int levels = 4; // Number of levels in the triangle

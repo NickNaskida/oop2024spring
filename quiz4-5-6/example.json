@@ -1,0 +1,11 @@
+{
+  "message": "string",
+  "sender": "User/Chatbot",
+  "chat_history": [
+    {
+      "sender": "User/Chatbot",
+      "message": "string",
+      "created_at": "2024-06-17T09:14:18"
+    }
+  ]
+}

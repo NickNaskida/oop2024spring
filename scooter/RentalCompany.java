@@ -87,4 +87,15 @@ public class RentalCompany {
             System.out.println(scooter);
         }
     }
+
+    /**
+     * Displays all active scooters.
+     */
+    public static displayActiveScooters() {
+        for (Scooter scooter : scooters) {
+            if (scooter.isAvailable()) {
+                System.out.println(scooter);
+            }
+        }
+    }
 }
